@@ -13,4 +13,4 @@ thoughts about visualizing the space between buildings
 
 ### present, but not open?
 
-- [New York City]. There appears to be enough data to [draw the NYCityMap](http://maps.nyc.gov/doitt/nycitymap/?z=8&p=990753,205789&c=GISBasic) but I have not found a public dataset. The only public datasets appear to be [single-line files only](http://www.nyc.gov/html/dcp/html/bytes/applbyte.shtml#lion).
+- **New York City.** There appears to be enough data to [draw the NYCityMap](http://maps.nyc.gov/doitt/nycitymap/?z=8&p=990753,205789&c=GISBasic) but I have not found a public dataset. The only public datasets appear to be [single-line files only](http://www.nyc.gov/html/dcp/html/bytes/applbyte.shtml#lion).
