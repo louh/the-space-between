@@ -18,3 +18,7 @@ thoughts about visualizing the space between buildings
       - [TreeKit street trees and tree beds](http://treekit.org/map/). Super complete street tree information for some neighbourhoods.
       - [NYC Parks Tree Map](https://tree-map.nycgovparks.org/#treeinfo-183882). NYC Parks official dataset. This is live data.
     - Examples: [NYCityMap](http://maps.nyc.gov/doitt/nycitymap/?z=8&p=990753,205789&c=GISBasic).
+- **Cambridge, Mass.**
+    - [Curbs](https://github.com/cambridgegis/cambridgegis_data/blob/master/Basemap/Curbs/BASEMAP_Curbs.geojson). Non-continuous lines, probably where curb cuts are.
+    - [Sidewalks](https://github.com/cambridgegis/cambridgegis_data/blob/master/Basemap/Sidewalks/BASEMAP_Sidewalks.geojson).
+    - [Roads](https://github.com/cambridgegis/cambridgegis_data/blob/master/Basemap/Roads/BASEMAP_Roads.geojson). Polygons!
