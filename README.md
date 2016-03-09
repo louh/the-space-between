@@ -22,3 +22,6 @@ thoughts about visualizing the space between buildings
     - [Curbs](https://github.com/cambridgegis/cambridgegis_data/blob/master/Basemap/Curbs/BASEMAP_Curbs.geojson). Non-continuous lines, probably where curb cuts are.
     - [Sidewalks](https://github.com/cambridgegis/cambridgegis_data/blob/master/Basemap/Sidewalks/BASEMAP_Sidewalks.geojson).
     - [Roads](https://github.com/cambridgegis/cambridgegis_data/blob/master/Basemap/Roads/BASEMAP_Roads.geojson). Polygons!
+- **Santa Monica, Calif.**
+    - [Curbs](https://github.com/CityofSantaMonica/GIS/blob/master/streets/right-of-way.geojson). Non-continuous curb lines.
+    - [Right of way](https://github.com/CityofSantaMonica/GIS/blob/master/streets/right-of-way.geojson). A single polygon representing the asphalt area.
