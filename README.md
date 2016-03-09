@@ -27,3 +27,7 @@ thoughts about visualizing the space between buildings
     - [Right of way](https://github.com/CityofSantaMonica/GIS/blob/master/streets/right-of-way.geojson). A single polygon representing the asphalt area.
 - **Virginia Beach, Va.**
     - [Road edges](http://gis.data.vbgov.com/datasets/6f4d45b4c360453da268ee4f8d1a963e_0).
+- **Milwaukee, Wis.**
+    - [Topo/planimetric data download](http://mclio.maps.arcgis.com/apps/SimpleViewer/index.html?appid=9d71b12ae08440b7af1d092a64b22cb3). Select a square mile area, then select a Topo/Planimetric download, which includes curb edges and more (e.g. tree beds, sidewalks). Formats: DWG, GeoDatabase. 
+- **Raleigh, N.C. (Wake County)**
+    - [Road edge](http://data.wake.opendata.arcgis.com/datasets/d2ade1af34a9478a848f117500a176f0_25). Data exists (and is [rendered on the GIS portal](http://maps.raleighnc.gov/iMAPS/index.html)) but the download seems broken.
