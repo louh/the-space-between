@@ -10,7 +10,11 @@ thoughts about visualizing the space between buildings
 - [Philadelphia](http://www.pasda.psu.edu/uci/MetadataDisplay.aspx?entry=PASDA&file=PhiladelphiaCurbEdges201201.xml&dataset=169)
 - [San Francisco](https://data.sfgov.org/Geographic-Locations-and-Boundaries/City-curbs-and-islands-Zipped-Shapefile-Format-/nvxg-zay4?)
 - [Washington, D.C.](http://opendata.dc.gov/datasets/e8299c86b4014f109fedd7e95ae20d52_61) (Roads dataset contains shape area layer). Also valuable: [sidewalks](http://opendata.dc.gov/datasets/2347fa1f3fd9412dbf11aa6441ddca8b_83)
-
-### present, but not open?
-
-- **New York City.** There appears to be enough data to [draw the NYCityMap](http://maps.nyc.gov/doitt/nycitymap/?z=8&p=990753,205789&c=GISBasic) but I have not found a public dataset. The only public datasets appear to be [single-line files only](http://www.nyc.gov/html/dcp/html/bytes/applbyte.shtml#lion).
+- **New York City** 
+    - [Pavement Edges](https://data.cityofnewyork.us/Environment/New-York-City-Pavement-Edges/x9uq-u3qs). Aka curblines.
+    - [Sidewalk Features](https://data.cityofnewyork.us/City-Government/Sidewalk-Features/vfx9-tbb6). This is the area for sidewalks (curblines + inside edge of sidewalk).
+    - [Roadbed](https://data.cityofnewyork.us/City-Government/Roadbed/xgwd-7vhd). This contains shapes of the asphalt area. There are separate shapes for each leg of road and intersection.
+    - Extra credit:
+      - [TreeKit street trees and tree beds](http://treekit.org/map/). Super complete street tree information for some neighbourhoods.
+      - [NYC Parks Tree Map](https://tree-map.nycgovparks.org/#treeinfo-183882). NYC Parks official dataset. This is live data.
+    - Examples: [NYCityMap](http://maps.nyc.gov/doitt/nycitymap/?z=8&p=990753,205789&c=GISBasic).
