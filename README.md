@@ -31,3 +31,7 @@ thoughts about visualizing the space between buildings
     - [Topo/planimetric data download](http://mclio.maps.arcgis.com/apps/SimpleViewer/index.html?appid=9d71b12ae08440b7af1d092a64b22cb3). Select a square mile area, then select a Topo/Planimetric download, which includes curb edges and more (e.g. tree beds, sidewalks). Formats: DWG, GeoDatabase. 
 - **Raleigh, N.C. (Wake County)**
     - [Road edge](http://data.wake.opendata.arcgis.com/datasets/d2ade1af34a9478a848f117500a176f0_25). Data exists (and is [rendered on the GIS portal](http://maps.raleighnc.gov/iMAPS/index.html)) but the download seems broken.
+
+### hall of shame
+
+- **Nashville, Tenn.** will [sell you planimetric data for $500](http://www.nashville.gov/Planning-Department/Mapping-and-GIS/Map-and-Data-Sales.aspx). You can see the data in their GIS portal base maps, but attempting to access the inferred ESRI endpoint that would house this information will cause its server to refuse to connect you to it.
