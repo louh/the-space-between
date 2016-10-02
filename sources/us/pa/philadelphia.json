@@ -1,0 +1,22 @@
+{
+    "coverage": {
+        "US Census": {
+            "geoid": "42101",
+            "name": "Philadelphia County",
+            "state": "Pennsylvania"
+        },
+        "country": "us",
+        "state": "pa",
+        "county": "Philadelphia"
+    },
+    "data": "http://data.phl.opendata.arcgis.com/datasets/5d5a56685d32499d9c43a6d499864212_0.zip",
+    "website": "https://www.opendataphilly.org/dataset/curb-edges",
+    "license": "https://www.arcgis.com/home/item.html?id=5d5a56685d32499d9c43a6d499864212",
+    "type": "shapefile",
+    "note": "Polygons representing the area of drivable pavement citywide, as well as interior non-street polygons. Last updated July 2016.",
+    "conform": {
+        "type": "shapefile",
+        "polygon_filter": "FCODE",
+        "elevation": "ELEV_1"
+    }
+}
